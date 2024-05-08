@@ -14,10 +14,10 @@ public class BTS {
         System.out.print("In-Order :- ");
         tree.inOrder(); 
         System.out.println();
-        System.out.print("Post-Order : ");
+        System.out.print("Post-Order :- ");
         tree.postOrder();
         System.out.println();
-        System.out.print("Pre-Order : ");
+        System.out.print("Pre-Order :- ");
         tree.preOrder();
     }
 }
