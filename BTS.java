@@ -11,8 +11,8 @@ public class BTS {
         // tree.insert(8);
 
         System.out.println();
-        System.out.print("In-Order : ");
-        tree.inOrder();
+        System.out.print("In-Order :- ");
+        tree.inOrder(); 
         System.out.println();
         System.out.print("Post-Order : ");
         tree.postOrder();
